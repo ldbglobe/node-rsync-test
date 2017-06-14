@@ -1,0 +1,14 @@
+{
+  "name": "toyunda-rsync",
+  "version": "1.0.0",
+  "description": "Toyunda Helpers to sync Kara through rsync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rsync": "^0.6.1"
+  }
+}
